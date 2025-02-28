@@ -1,9 +1,8 @@
 ## Hello World!👋
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800](https://github.com/PaulaRodArias/PaulaRodArias/blob/main/LinkedIn%20banner.jpg"/>
+  <img decoding="async" src="https://raw.githubusercontent.com/PaulaRodArias/PaulaRodArias/main/LinkedIn%20banner.jpg" width="800"/>
 </div>
-
 
 <!--
 **PaulaRodArias/PaulaRodArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
