@@ -17,6 +17,11 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+ <div id="header" align="left">
+
+### :woman_technologist: I'm passionate about data and eager to showcase my skills. On my page, you'll find projects I worked on while studying at TripleTen, an online Data Analytics Bootcamp. My projects are numbered, allowing you to track my progress. I look forward to connecting with you!
+
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
     <img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
