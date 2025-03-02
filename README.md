@@ -4,7 +4,8 @@
   <img decoding="async" src="https://raw.githubusercontent.com/PaulaRodArias/PaulaRodArias/main/LinkedIn%20banner.jpg" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paula-rodríguez-arias/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-rodríguez-arias/)
+
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PaulaRodArias91.PaulaRodArias91&color=00cf00" alt=""/>
